@@ -30,9 +30,8 @@ Citations: Loomes, R., Hull, L., & Mandy, W. P. L. (2017). What is the male-to-f
 
 Maenner, M. J., Shaw, K. A., Bakian, A. V., Bilder, D. A., Durkin, M. S., Esler, A., Furnier, S. M., Hallas, L., Hall-Lande, J., Hudson, A., Hughes, M. M., Patrick, M., Pierce, K., Poynter, J. N., Salinas, A., Shenouda, J., Vehorn, A., Warren, Z., Constantino, J. N., … Cogswell, M. E. (2021). Prevalence and Characteristics of Autism Spectrum Disorder Among Children Aged 8 Years—Autism and Developmental Disabilities Monitoring Network, 11 Sites, United States, 2018. *Morbidity and Mortality Weekly Report Surveillance Summaries*, *70*(11), 1–16. http://dx.doi.org/10.15585/mmwr.ss7011a1
 
-## LISCENSE
+## LICENSE
 Any licenses/restrictions placed on the code: Autism Infographic © 2024 by Mary Catherine Ellis is licensed under CC BY-SA 4.0 
 
+## DATE
 Date of original data visualization: 2024-03-10 to 2024-03-14
-
-Geographic location of original data collection: United States
