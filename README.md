@@ -18,11 +18,11 @@ Email: cellis@sdsu.edu
 Data visualization project for 2024 NNLM Data Visualization Challenge.
 
 ## CODING LANGUAGES AND LIBRARIES
-*Python 3
-*Google Colaboratory
-*Numpy
-*Pandas
-*Plotly Express
+* Python 3
+* Google Colaboratory
+* Numpy
+* Pandas
+* Plotly Express
 
 ## DATA INFORMATION
 Data for prevalence from Maenner, et al. (2021) article. Data on sex ratio from Loomes, et al. (2017).
